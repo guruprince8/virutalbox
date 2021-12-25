@@ -1,0 +1,3 @@
+/* https://brb.nci.nih.gov/seqtools/installUbuntu.html */
+/* https://brb.nci.nih.gov/seqtools/index.html#requirement */
+/* https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview */
